@@ -1,0 +1,1 @@
+conn = psycopg2.connect(host="localhost",database="spotify", user="postgres", password="SQLdev1")
